@@ -6,3 +6,5 @@ git status
 git add -A
 git status 
 git commit -m "Tarea 2"
+git log
+git status
