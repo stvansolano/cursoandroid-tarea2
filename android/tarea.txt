@@ -8,3 +8,4 @@ git status
 git commit -m "Tarea 2"
 git log
 git status
+git push origin master -f
