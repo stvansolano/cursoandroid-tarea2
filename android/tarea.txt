@@ -1,0 +1,8 @@
+
+
+git status
+git clone https://github.com/stvansolano/cursoandroid-tarea2.git
+git status
+git add -A
+git status 
+git commit -m "Tarea 2"
